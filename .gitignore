@@ -1,0 +1,22 @@
+# folder que genera la app flywheel
+/conf
+/logs
+
+# el wordpress en si, solo vamos a subir el theme
+
+/app/public/*.php
+/app/public/*.txt
+/app/public/*.html
+/app/public/wp-admin
+/app/public/wp-includes
+
+# wp-content
+
+/app/public/wp-content/plugins
+/app/public/wp-content/uploads
+/app/public/wp-content/index.php
+/app/public/wp-content/themes/twentynineteen
+/app/public/wp-content/themes/twentyseventeen
+/app/public/wp-content/themes/twentysixteen
+/app/public/wp-content/themes/twentytwenty
+/app/public/wp-content/themes/index.php
