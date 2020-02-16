@@ -2,7 +2,7 @@
 /conf
 /logs
 
-# el wordpress en si, solo vamos a subir el theme
+# el wordpress en si
 
 /app/public/*.php
 /app/public/*.txt
