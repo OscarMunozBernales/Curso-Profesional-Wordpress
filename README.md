@@ -35,3 +35,9 @@ Jerarquia de archivos:
 3. Finalmente en caso de no encotrarlos, buscará el archivo generíco de las categorías y las etiquetas. ![jerarquia-generalizada](assets/jerarquia-generalizada.png)
 4. En caso de no encontrar ningún archivo definido para las taxonomias se dirigirá al PHP por defecto para todos los archivos <br> 
 ![jerarquia-general](assets/jerarquia-general.png)
+
+Una forma mas general de ver esta organizacion es el sitio oficial de [WordPress](https://developer.wordpress.org/files/2014/10/Screenshot-2019-01-23-00.20.04.png)
+
+De todas formas la voy a dejar acá abajo.
+
+![Jerárquia WP](assets/jerarquia-wp.png)
